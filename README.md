@@ -2,7 +2,7 @@
 
 - [Libro oficial de Git](https://git-scm.com/book/es/v2)
   
-- [Primeros pasos con Git y GitHub de davidgchaves](https://github.com/davidgchaves/primeros-pasos-con-git-y-github)
+- [Primeros pasos con Git y GitHub de David García Chaves](https://github.com/davidgchaves/primeros-pasos-con-git-y-github)
 - [Tutorial para configurar SSH para la autenticación con GitHub desde Ubuntu](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Key-Setup-Config-Ubuntu-Linux)
   
 - [Curso de Git en pildorasinformaticas](https://www.youtube.com/watch?v=ANF1X42_ae4&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
